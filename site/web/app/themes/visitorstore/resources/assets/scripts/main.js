@@ -1,5 +1,6 @@
 // import external dependencies
 import 'jquery';
+import 'flickity/dist/flickity.pkgd.js'
 
 // Import everything from autoload
 import "./autoload/**/*"
